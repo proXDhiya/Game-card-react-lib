@@ -1,0 +1,28 @@
+{
+  "name": "is-odd",
+  "version": "1.0.0",
+  "description": "A simple library to check if a number is odd or not",
+  "main": "isOdd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish --registry http://192.168.0.122:4873",
+    "unpublish": "npm unpublish --registry http://192.168.0.122:4873/ --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proXDhiya/Game-card-react-lib.git"
+  },
+  "keywords": [
+    "react",
+    "chakra-ui",
+    "game",
+    "card",
+    "isOdd"
+  ],
+  "author": "proXDhiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proXDhiya/Game-card-react-lib/issues"
+  },
+  "homepage": "https://github.com/proXDhiya/Game-card-react-lib#readme"
+}
